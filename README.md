@@ -22,8 +22,8 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | Yuxiang Gao  | -  | [DavidGogh](https://github.com/DavidGogh)  |
 | Xin Ren  | -  | -  |
 | Amrita Krishnaraj  | -  | -  |
-| Nancy Wang  | -  | [nancy-wang](https://github.com/nancy-wang)  |
 | Amama Mahmood  | -  | -  |
+| Nancy Wang  | -  | [nancy-wang](https://github.com/nancy-wang)  |
 
 ## Demos and Tutorials
 ## Hardware
