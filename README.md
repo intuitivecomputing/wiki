@@ -3,6 +3,7 @@
 This is a public wiki for members of the Intuitive Computing Laboratory.
 ## Contents
   - [Administration](#administration)
+    - [Lab Member Contact Information](#lab-member-contact-information)
   - [Demos and Tutorials](#demos-and-tutorials)
   - [Hardware](#hardware)
   - [Onboarding for New Lab Members](#onboarding-for-new-lab-members)
@@ -10,6 +11,16 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
   - [Software](#software)
 
 ## Administration
+### Lab Member Contact Information 
+
+|    Name     | E-mail Address | GitHub Username |
+| ------------- | ------------- | ------------- | 
+| Dr. Chien-Ming Huang  | cmhuang@cs.jhu.edu  | [cmhuang](https://github.com/cmhuang)  | 
+| Gopika Ajaykumar  | gopika.ajaykumar@jhu.edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
+| Bart Paulhamus  | -  | -  |
+| Ji Han  | -  | [j5207](https://github.com/j5207)  |
+| Yuxiang Gao  | -  | [DavidGogh](https://github.com/DavidGogh)  |
+
 ## Demos and Tutorials
 ## Hardware
 ## Onboarding for New Lab Members
