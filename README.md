@@ -4,6 +4,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 ## Contents
   - [Administration](#administration)
     - [Lab Member Contact Information](#lab-member-contact-information)
+    - [Lab Member Schedules](#lab-member-schedules)
   - [Demos and Tutorials](#demos-and-tutorials)
   - [Hardware](#hardware)
   - [Onboarding for New Lab Members](#onboarding-for-new-lab-members)
@@ -24,6 +25,22 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | Amrita Krishnaraj  | -  | -  |
 | Amama Mahmood  | -  | -  |
 | Nancy Wang  | -  | [nancy-wang](https://github.com/nancy-wang)  |
+
+### Lab Member Schedules
+
+**Fall 2018 Availability**
+
+|    Member     | M | T | W | TH | F | Additional Notes | Last Updated |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Dr. Huang  | - | - | - | - | - | - | - |
+| Gopika | 9:30 AM - 6:30 PM | 11:30 AM - 2:45 PM | 9:30 AM - 6:30 PM | 11:30 AM - 2:45 PM | 9:30 AM - 6:30 PM | S/S: 3:00 - 6:30 PM | 10/01/18 |
+| Bart | - | - | - | - | - | - | - |
+| Ji | - | - | - | - | - | - | - |
+| Yuxiang | - | - | - | - | - | - | - |
+| Xin | - | - | - | - | - | - | - |
+| Amrita | - | - | - | - | - | - | - |
+| Amama | - | - | - | - | - | - | - |
+| Nancy | - | - | - | - | - | - | - |
 
 ## Demos and Tutorials
 ## Hardware
