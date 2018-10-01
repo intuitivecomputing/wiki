@@ -2,19 +2,16 @@
 
 This is a public wiki for members of the Intuitive Computing Laboratory.
 ## Contents
-### Administration:
-* To be populated
-### Demos and Tutorials:
-* To be populated
-### Hardware:
-* To be populated
-### Lab Member Pages:
-* To be populated
-### Onboarding for New Lab Members:
-* To be populated
-### Open Lab Issues:
-* To be populated
-### Projects:
-* To be populated
-### Software:
-* To be populated
+  - [Administration](#administration)
+  - [Demos and Tutorials](#demos-and-tutorials)
+  - [Hardware](#hardware)
+  - [Onboarding for New Lab Members](#onboarding-for-new-lab-members)
+  - [Projects](#projects)
+  - [Software](#software)
+
+## Administration
+## Demos and Tutorials
+## Hardware
+## Onboarding for New Lab Members
+## Projects
+## Software
