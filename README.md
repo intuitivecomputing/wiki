@@ -19,7 +19,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | Dr. Chien-Ming Huang  | cmhuang@cs.jhu.edu  | [cmhuang](https://github.com/cmhuang)  | 
 | Gopika Ajaykumar  | gopika.ajaykumar@jhu.edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
 | Bart Paulhamus  | -  | -  |
-| Ji Han  | -  | [j5207](https://github.com/j5207)  |
+| Ji Han  | jhan53@jhu.edu  | [j5207](https://github.com/j5207)  |
 | Yuxiang Gao  | -  | [DavidGogh](https://github.com/DavidGogh)  |
 | Xin Ren  | -  | -  |
 | Amrita Krishnaraj  | -  | -  |
