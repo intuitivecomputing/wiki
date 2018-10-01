@@ -20,6 +20,10 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | Bart Paulhamus  | -  | -  |
 | Ji Han  | -  | [j5207](https://github.com/j5207)  |
 | Yuxiang Gao  | -  | [DavidGogh](https://github.com/DavidGogh)  |
+| Xin Ren  | -  | -  |
+| Amrita Krishnaraj  | -  | -  |
+| Nancy Wang  | -  | [nancy-wang](https://github.com/nancy-wang)  |
+| Amama Mahmood  | -  | -  |
 
 ## Demos and Tutorials
 ## Hardware
