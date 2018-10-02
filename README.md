@@ -35,7 +35,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | Dr. Huang  | - | - | - | - | - | - | - |
 | Gopika | 9:30 AM - 6:30 PM | 11:30 AM - 2:45 PM | 9:30 AM - 6:30 PM | 11:30 AM - 2:45 PM | 9:30 AM - 6:30 PM | S/S: 3:00 - 6:30 PM | 10/01/18 |
 | Bart | - | - | - | - | - | - | - |
-| Ji | - | - | - | - | - | - | - |
+| Ji | 12:00 AM- 3:00 PM, 4:30 PM - 6:00 PM| 9:30 AM - 6:30 PM | 12:00 AM- 3:00 PM, 4:30 PM - 6:00 PM | 9:30 AM - 6:30 PM | 12:00 AM- 3:00 PM, 4:30 PM - 6:00 PM | S/S: By email | 10/01/18 |
 | Yuxiang | - | - | - | - | - | - | - |
 | Xin | - | - | - | - | - | - | - |
 | Amrita | - | - | - | - | - | - | - |
