@@ -18,12 +18,10 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | ------------- | ------------- | ------------- |
 | Dr. Chien-Ming Huang  | cmhuang@cs.jhu.edu  | [cmhuang](https://github.com/cmhuang)  |
 | Gopika Ajaykumar  | gopika.ajaykumar@jhu.edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
-| Bart Paulhamus  | -  | -  |
 | Ji Han  | jhan53@jhu.edu  | [j5207](https://github.com/j5207)  |
 | Yuxiang Gao  | ygao73@jhu.edu | [DavidGogh](https://github.com/DavidGogh)  |
 | Xin Ren  | -  | -  |
 | Amrita Krishnaraj  | -  | -  |
-| Amama Mahmood  | -  | -  |
 | Nancy Wang  | -  | [nancy-wang](https://github.com/nancy-wang)  |
 
 ### Lab Member Schedules
@@ -34,12 +32,10 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Huang  | - | - | - | - | - | - | - |
 | Gopika | 9:30 AM - 6:30 PM | 11:30 AM - 2:45 PM | 9:30 AM - 6:30 PM | 11:30 AM - 2:45 PM | 9:30 AM - 6:30 PM | S/S: 3:00 - 6:30 PM | 10/01/18 |
-| Bart | - | - | - | - | - | - | - |
 | Ji | 12:00 AM- 3:00 PM, 4:30 PM - 6:00 PM| 9:30 AM - 6:30 PM | 12:00 AM- 3:00 PM, 4:30 PM - 6:00 PM | 9:30 AM - 6:30 PM | 12:00 AM- 3:00 PM, 4:30 PM - 6:00 PM | S/S: By email | 10/01/18 |
 | Yuxiang | - | - | - | - | - | - | - |
 | Xin | - | - | - | - | - | - | - |
 | Amrita | - | - | - | - | - | - | - |
-| Amama | - | - | - | - | - | - | - |
 | Nancy | - | - | - | - | - | - | - |
 
 ## Demos and Tutorials
