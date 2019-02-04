@@ -25,7 +25,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 
 ### Lab Member Schedules
 
-**Fall 2018 Availability**
+**Spring 2019 Availability**
 
 |    Member     | M | T | W | TH | F | Additional Notes | Last Updated |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
