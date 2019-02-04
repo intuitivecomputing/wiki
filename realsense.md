@@ -2,8 +2,7 @@
 ## Last updated by [Gopika Ajaykumar](https://github.com/gopikaajaykumar) on 02/04/19
 
 At this time, all RealSense cameras in our lab are from the Intel® RealSense™ Depth Camera D400-Series, which basically means
-that they use stereo vision to calculate depth. More information about the specifications and differences between camera models
-can be found [here](https://software.intel.com/en-us/realsense/d400).
+that they use stereo vision to calculate depth. More information about the specifications and differences between the different camera models owned by the lab can be found [here](https://software.intel.com/en-us/realsense/d400).
 
 ### Installation
 In order to use the RealSense cameras with ROS, the [realsense2_camera package](https://github.com/intel-ros/realsense) 
