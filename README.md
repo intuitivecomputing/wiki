@@ -16,13 +16,10 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 
 |    Name     | E-mail Address | GitHub Username |
 | ------------- | ------------- | ------------- |
-| Dr. Chien-Ming Huang  | cmhuang@cs.jhu.edu  | [cmhuang](https://github.com/cmhuang)  |
-| Gopika Ajaykumar  | gopika.ajaykumar@jhu.edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
+| [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)  | cmhuang@cs.jhu.edu  | [cmhuang](https://github.com/cmhuang)  |
+| [Gopika Ajaykumar](http://www.cs.jhu.edu/~gopika/)  | gopika.ajaykumar@jhu.edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
 | Ji Han  | jhan53@jhu.edu  | [j5207](https://github.com/j5207)  |
 | Yuxiang Gao  | ygao73@jhu.edu | [DavidGogh](https://github.com/DavidGogh)  |
-| Xin Ren  | -  | -  |
-| Amrita Krishnaraj  | -  | -  |
-| Nancy Wang  | -  | [nancy-wang](https://github.com/nancy-wang)  |
 
 ### Lab Member Schedules
 
