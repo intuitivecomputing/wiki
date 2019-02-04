@@ -20,6 +20,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | [Gopika Ajaykumar](http://www.cs.jhu.edu/~gopika/)  | gopika.ajaykumar@jhu.edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
 | Ji Han  | jhan53@jhu.edu  | [j5207](https://github.com/j5207)  |
 | Yuxiang Gao  | ygao73@jhu.edu | [DavidGogh](https://github.com/DavidGogh)  |
+| Amrita Krishnaraj | akrishn9@jhu.edu | [akrishn9](https://github.com/akrishn9) |
 
 ### Lab Member Schedules
 
