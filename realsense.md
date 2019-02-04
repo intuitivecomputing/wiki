@@ -23,7 +23,7 @@ You can also view the sensor data from the camera outside of ROS by running "rea
 Known issues for the ROS RealSense package can be seen in the realsense2_camera GitHub README under "Known Issues." If you manually installed librealsense and are having issues running the ROS RealSense package, consulting "Troubleshooting Installation and Patch-related Issues" under [this link](https://github.com/IntelRealSense/librealsense/blob/development/doc/installation.md) may be helpful.
 
 From my experience, some of the issues you may encounter the following issue:
-1. **You are unable to retrieve sensor data from the camera, both with the ROS RealSense package and with the realsense-viewer. ("Frames not arriving within 5 seconds")** 
+**You are unable to retrieve sensor data from the camera, both with the ROS RealSense package and with the realsense-viewer. ("Frames not arriving within 5 seconds")** 
 
 First, as always, try unplugging and plugging in again. This works occasionally (especially if you are using an extension cable, which the RealSense cameras usually do not play well with due to their strict power requirements.) Be sure you are using a USB 3 (Super Speed) cable/port. USB 2 will NOT work (unless you are really lucky, and even in that case it probably won't be reliable.)
 
