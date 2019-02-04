@@ -52,6 +52,7 @@ Our lab has six RealSense cameras: one D435, three D345i's and two D415's. Below
 | -- | ----- | ------------- |
 | 1 | D435 | 750612071028 |
 | 2 | D435i | 843112073431 |
+| 3 | D435i | 841512070749 |
 ## Onboarding for New Lab Members
 
 ## Projects
