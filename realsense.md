@@ -10,7 +10,7 @@ should be used. Installation instructions for this package and its pre-requisite
 To summarize, you will have to:
 1. Install the RealSense SDK (librealsense). Make sure that you install version two, and not version one, as this is the 
 version supporting the D400-Series. The realsense2_camera github README details the installation process.
-2. Clone the realsense2_camera (found [here](https://github.com/intel-ros/realsense/releases)) into your desired catkin 
+2. Clone the realsense2_camera package (found [here](https://github.com/intel-ros/realsense/releases)) into your desired catkin 
 workspace. Note that if you ever use a RealSense camera that is not in the D400-Series and is also not an SR300 model, then you 
 will have to use version 1 of the realsense package (the latest build can be found [here](https://github.com/intel-ros/realsense/releases/tag/1.8.1).
 
