@@ -49,7 +49,7 @@ Tutorial for UR5 and force torque sensor: [link](ur5.md)
 Our lab has six RealSense cameras: one D435, three D345i's and two D415's. Below is a table containing the information associated with each of these cameras. Please refer to the label on the back of the camera to obtain its ID.
 | ID | Type | Serial Number |
 | -- | ---- | ------------- |
-| 1  | D435 | 750612071028  |
+| 1  | D435 | 750612071028 |
 
 ## Onboarding for New Lab Members
 
