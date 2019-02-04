@@ -12,5 +12,5 @@ To summarize, you will have to:
 version supporting the D400-Series. The realsense2_camera github README details the installation process.
 2. Clone the realsense2_camera package (found [here](https://github.com/intel-ros/realsense/releases)) into your desired catkin 
 workspace. Note that if you ever use a RealSense camera that is not in the D400-Series and is also not an SR300 model, then you 
-will have to use version 1 of the realsense package (the latest build can be found [here](https://github.com/intel-ros/realsense/releases/tag/1.8.1).
+will have to use version 1 of the realsense package (the latest build can be found [here](https://github.com/intel-ros/realsense/releases/tag/1.8.1)). I recommend cloning the latest release.
 
