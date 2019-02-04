@@ -21,6 +21,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | Ji Han  | jhan53@jhu.edu  | [j5207](https://github.com/j5207)  |
 | Yuxiang Gao  | ygao73@jhu.edu | [DavidGogh](https://github.com/DavidGogh)  |
 | Amrita Krishnaraj | akrishn9@jhu.edu | [akrishn9](https://github.com/akrishn9) |
+| Yeping Wang | wyeping1@jhu.edu | [yepw](https://github.com/yepw?tab=repositories) |
 
 ### Lab Member Schedules
 
