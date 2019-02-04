@@ -33,7 +33,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 
 ## Demos and Tutorials
 
-Tutorial for UR5 and force torque sensor: [link](ur5.md)
+[UR-5 and force torque sensor](ur5.md)
 
 
 
