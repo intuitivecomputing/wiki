@@ -29,7 +29,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 
 |    Member     | M | T | W | TH | F | Additional Notes | Last Updated |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Gopika | 10:00 AM - 6:00 PM | 10:00 AM - 3:00 PM, 4:30 - 6:00 PM | 10:00 AM - 6:00 PM | 10:00 AM - 3:00 PM, 4:30 - 6:00 PM | 10:00 AM - 6:00 PM | S/S: Anytime as needed | 02/04/19 |
+| Gopika | 10:00 AM - 6:00 PM | 10:00 AM - 3:00 PM, 4:30 - 6:00 PM | 10:00 AM - 6:00 PM | 10:00 AM - 3:00 PM, 4:30 - 6:00 PM | 10:00 AM - 6:00 PM | S: 10:00 AM - 6:00 PM | 02/22/19 |
 
 ## Demos and Tutorials
 
