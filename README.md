@@ -37,6 +37,8 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 
 [RealSense Cameras](realsense.md)
 
+[Use docker for development and test](docker.md)
+
 
 ## Hardware
 ### RealSense Cameras
