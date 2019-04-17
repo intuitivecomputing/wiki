@@ -58,6 +58,7 @@ Our lab has six RealSense cameras: one D435, three D345i's and two D415's. Below
 To be added
 
 ## Projects
-* \[[pdf](https://dl.acm.org/citation.cfm?id=3302326)\]\[[website](http://intuitivecomputing.github.io/PATI)\]Gao, Yuxiang, and Chien-Ming Huang. "PATI: a projection-based augmented table-top interface for robot programming." Proceedings of the 24th International Conference on Intelligent User Interfaces. ACM, 2019.
+* \[[pdf](https://dl.acm.org/citation.cfm?id=3302326)\]\[[website](http://intuitivecomputing.github.io/PATI)\] Gao, Yuxiang, and Huang, Chien-Ming. "PATI: a projection-based augmented table-top interface for robot programming." Proceedings of the 24th International Conference on Intelligent User Interfaces. ACM, 2019.
+
 ## Software
 To be added
