@@ -19,7 +19,7 @@ This is a public wiki for members of the Intuitive Computing Laboratory.
 | [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)  | cmhuang[at]cs[dot]jhu[dot]edu  | [cmhuang](https://github.com/cmhuang)  |
 | [Gopika Ajaykumar](http://www.cs.jhu.edu/~gopika/)  | gopika[at]cs[dot]jhu[dot]edu  | [gopikaajaykumar](https://github.com/gopikaajaykumar)  |
 | Ji Han  | jhan53[at]jhu[dot]edu  | [j5207](https://github.com/j5207)  |
-| Yuxiang Gao  | ygao73[at]jhu[dot]edu | [DavidGogh](https://github.com/DavidGogh)  |
+| Yuxiang Gao  | ygao73[at]jhu[dot]edu | [DavidGogh](https://github.com/yuxiang-gao)  |
 | Amrita Krishnaraj | akrishn9[at]jhu[dot]edu | [akrishn9](https://github.com/akrishn9) |
 | Yeping Wang | wyeping1[at]jhu[dot]edu | [yepw](https://github.com/yepw?tab=repositories) |
 
@@ -58,7 +58,6 @@ Our lab has six RealSense cameras: one D435, three D345i's and two D415's. Below
 To be added
 
 ## Projects
-To be added
-
+* \[[pdf](https://dl.acm.org/citation.cfm?id=3302326)\]\[[website](http://intuitivecomputing.github.io/PATI)\]Gao, Yuxiang, and Chien-Ming Huang. "PATI: a projection-based augmented table-top interface for robot programming." Proceedings of the 24th International Conference on Intelligent User Interfaces. ACM, 2019.
 ## Software
 To be added
