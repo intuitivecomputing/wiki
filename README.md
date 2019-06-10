@@ -53,6 +53,16 @@ Our lab has six RealSense cameras: one D435, three D345i's and two D415's. Below
 | 5 | D415 | 836212060501 | cam_5 |
 | 6 | D415 | 746112060889 | cam_6 |
 * 6 is unlabeled at the moment
+### UR5, Gripper and Force Torque Sensor
+| ID | Type | Model | Notes |
+| -- | ----- | ----- | ------------------------------------------------- |
+| 1 | ur5 | ur5 |
+| 2 | Gripper | [ROBOTIQ 2F-140](https://robotiq.com/products/2f85-140-adaptive-robot-gripper) |
+| 3 | Force Torque Sensor |  [ROBOTIQ FT300](https://robotiq.com/products/ft-300-force-torque-sensor)|
+### WebCAMs
+| ID | Type | Model | Notes |
+| -- | ----- | ----- | ------------------------------------------------- |
+| 1 | WebCAM | Logitech C930e |
 
 ## Onboarding for New Lab Members
 To be added
