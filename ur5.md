@@ -1,30 +1,6 @@
 
-
-# UR5 Tutorial:
-
-## Bring up the robot:
-
-`roslaunch icl_phri_ur5_gripper_bringup ur5_bringup.launch with_gripper:=true limited:=true robot_ip:=192.168.1.129`
-
-## Launch moveit scence:
-
-`roslaunch icl_phri_ur5_gripper_moveit_config ur5_gripper_moveit_planning_execution.launch limited:=true`
-
-`roslaunch icl_phri_ur5_gripper_moveit_config moveit_rviz.launch config:=true`
-
-## Launch gripper node
-
-`rosrun robotiq_c_model_control CModelRtuNode.py /dev/ttyUSB1`
-
-`rosrun robotiq_c_model_control CModelSimpleController.py`
-
-`rosrun robotiq_c_model_control CModelStatusListener.py`
-
-## Launch force torque sensor
-
-`rosrun robotiq_force_torque_sensor rq_sensor _serial_id:="ttyUSB0"`
-
-## Bring up all at once
-
-`roslaunch icl_phri_ur5_gripper_bringup ur5_with_gripper.launch`
-
+# UR5 & Gripper Tutorial:
+## If you want a simple way to control the UR5 and the gripper
+[python-urx](https://github.com/intuitivecomputing/python-urx) will be a good choice.
+## If you want to use ROS and Moveit!
+You can use the [icl_phri_ur5](https://github.com/intuitivecomputing/icl_phri_ur5) repo to do the path planning,  and then use the [ur5_gripper_control](https://github.com/intuitivecomputing/PATI) package to control the gripper.
